@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899983141565",
+    "project_id": "ez-notes-c9f95",
+    "storage_bucket": "ez-notes-c9f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899983141565:android:06a3bdf17fcb8f0e6d65d4",
+        "android_client_info": {
+          "package_name": "com.example.eznotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899983141565-brcb7psa65jf131dpc8v4fg2pdkch2j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTleN7nzlVdSRGTeZFNEyhZE77Y9pBZEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899983141565-brcb7psa65jf131dpc8v4fg2pdkch2j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

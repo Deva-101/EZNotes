@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/barLogout"
+        android:icon="@drawable/logout_fill0_wght400_grad0_opsz48"
+        android:title="Logout"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/addNote"
+        android:icon="@drawable/add_fill0_wght400_grad0_opsz48"
+        android:title="Add Note"
+        app:showAsAction="always" />
+
+
+</menu>
