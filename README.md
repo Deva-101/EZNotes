@@ -1,5 +1,5 @@
-# QuickNotes Android App 📝
-Welcome to EZ Notes! - the coolest Android app for taking notes on the fly and accessing them from anywhere in the world. It's like having a virtual sticky note pad in your pocket!
+# EZ Notes Android App 📝
+Welcome to EZ Notes! - the coolest Android app for taking and accessing notes on the fly from anywhere in the world. It's like having a virtual sticky notepad in your pocket!
 
 # Features 🚀
 Easy-Peasy: EZ Notes is super chill and simple to use. Just open it, start typing, and boom – your thoughts are saved!
